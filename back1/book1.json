@@ -1,0 +1,75 @@
+[
+   
+{
+    "name":"Narnia",
+    
+    "author":{
+        "name":"Andrelo",
+        "gender":"man"
+    },
+    "genre":"Fantastic",
+    "date":"2015/6/12"
+    },
+    {
+        "name":"Harry Potter",
+        "author":{
+            "name":"Andre",
+            "gender":"woman"
+        },
+        "genre":"Fantastic",
+        "date":"2015/12/10"
+        },
+    {
+        "name":"Narnia",
+        
+        "author":{
+            "name":"Paul",
+            "gender":"man"
+        },
+        "genre":"horror",
+        "date":"2015/6/12"
+        },
+        {
+            "name":"Evil Dead",
+            
+            "author":{
+                "name":"Paula",
+                "gender":"woman"
+            },
+            "genre":"horror",
+            "date":"2015/10/31"
+            },
+            {
+                "name":"Evil Dead 2",
+                
+                "author":{
+                    "name":"Paula",
+                    "gender":"man"
+                },
+                "genre":"horror",
+                "date":"2015/10/31"
+                },
+            {
+                "name":"Start up",
+                
+                "author":{
+                    "name":"Paula",
+                    "gender":"man"
+                },
+                "genre":"finance",
+                "date":"2019/07/26"
+                },
+                {
+                    "name":"silicon walley",
+                    
+                    "author":{
+                        "name":"Paula",
+                        "gender":"woman"
+                    },
+                    "genre":"finance",
+                    "date":"2019/07/26"
+                    }
+     
+    
+
+]

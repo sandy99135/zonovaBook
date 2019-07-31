@@ -1,0 +1,160 @@
+.sort{
+ align-items: center;
+}
+#produit{
+  display:flex
+}
+
+#card{
+  justify-content: center;
+ width:100%;
+  margin-left: 20px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#card2{
+  height:600px !important;
+}
+
+#image{
+  margin: auto;
+  width:90%;
+ 
+  
+}
+#navbar{
+  background:#d05c62 !important;
+}
+
+
+#descript{
+   width:100%;
+  background: rgba(245,245,245);
+  text-align: center;
+}
+#desc p{
+  font-size: 40px;
+  font-family: sans-serif;  
+  text-transform: uppercase;
+  color: white;
+}
+#logo{
+  width:50px;
+  height: 50px;
+}
+
+#titre{
+text-decoration: none;
+color: white;
+font-size: 30px;
+margin-left: 10px;
+
+}
+#atelier{
+  display: inline-block;
+  position: relative;
+ width:550px;
+ height: 355px;
+ margin:30px;
+ overflow: hidden;
+ border-radius: 0px 0px 20px 20px;
+ transition: 0.5s;
+}
+#atelier:hover{
+  transform: scale(1.02);
+  box-shadow: -10px 10px 10px 10px rgba(0,0,0,0.3);
+}
+#atelier:hover #larg{
+  transform: scale(1.2);
+  
+}
+#imag{
+  position: absolute;
+  top:0;
+  left:0;
+  width:275px;
+  height: 355px;
+  overflow: hidden;
+   border-radius: 0px 20px 0px 0px;
+}
+#larg{
+  /* z-index: 99;
+  float:left; */
+  width:100%;
+  height:100%;
+  transition: 1s;
+}
+.cardbody{
+  position: absolute;
+  top:0;
+  right: 0;
+  width:50%;
+  height: 100%;
+  background:#d05c62 !important;
+  color:rgba(0,0,0,0.8);
+  overflow: hidden;
+   border-radius: 20px 0px 0px 0px;
+}
+.card-title{
+  width: 80%;
+  border-bottom: 2px solid rgba(0,0,0,0.8);
+  margin: 0 auto;
+padding-bottom: 2px;
+font-size:20px !important;
+}
+.inscr{
+ background:#f3671f !important;
+   border: white !important;
+   color:white !important;
+   transition: 0.5s !important; 
+}
+.inscr:hover{
+   border: 2px solid white !important;
+   color:white !important;
+}
+@media screen and (max-width: 600px) {
+  #atelier{
+    display: inline-block;
+    position: relative;
+   width:275px;
+   height: 175px;
+   margin:10px;
+   overflow: hidden;
+   border-radius: 0px 0px 20px 20px;
+   transition: 0.5s;
+   font-size: 10px;
+   line-height: 0.2;
+  }
+  #imag{
+    position: absolute;
+    top:0;
+    left:0;
+    width:136px;
+    height: 177px;
+    overflow: hidden;
+     border-radius: 0px 20px 0px 0px;
+  }
+}
+#vide{
+  position :fixed;
+  width: 100%;
+  height:500px;
+}
+#tabim{
+  widows: 100px;
+  height: 100px;
+}
+#login{
+  margin-left:50px;
+  margin-top:10px;
+  transition:0.2s;
+}
+#login :hover{
+ color: #f3671f;
+}
+#titre{
+  font-family: 'Roboto';
+}

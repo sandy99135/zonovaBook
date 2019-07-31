@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44c2ac38.chunk.css",
+    "main.js": "/static/js/main.df08e92c.chunk.js",
+    "main.js.map": "/static/js/main.df08e92c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.568101d1.chunk.css": "/static/css/2.568101d1.chunk.css",
+    "static/js/2.5b3ec341.chunk.js": "/static/js/2.5b3ec341.chunk.js",
+    "static/js/2.5b3ec341.chunk.js.map": "/static/js/2.5b3ec341.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ef5d12545bde7a20c7998ce2db71bdab.js": "/precache-manifest.ef5d12545bde7a20c7998ce2db71bdab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.568101d1.chunk.css.map": "/static/css/2.568101d1.chunk.css.map",
+    "static/css/main.44c2ac38.chunk.css.map": "/static/css/main.44c2ac38.chunk.css.map",
+    "static/media/login.css": "/static/media/cuisine1.d75eabcb.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  }
+}
